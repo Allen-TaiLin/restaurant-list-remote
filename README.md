@@ -20,7 +20,7 @@
 ## Environment SetUp - 環境建置
 
 1. [Node.js](https://nodejs.org/en/) (版本使用 10.15.0) - JavaScript 執行環境
-2. npm (版本使用 6.4.1) - Node.js 的套件管理器
+2. [npm](https://nodejs.org/en/) (版本使用 6.4.1) - Node.js 的套件管理器
 3. [Express](https://www.npmjs.com/package/express) (版本使用 4.17.1) - 應用程式架構
 4. [Express-Handlebars](https://www.npmjs.com/package/express-handlebars) (版本使用 5.2.0) - 模板引擎
 5. [Nodemon](https://www.npmjs.com/package/nodemon) - 伺服器輔助
