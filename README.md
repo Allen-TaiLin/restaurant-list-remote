@@ -78,7 +78,7 @@ npm run dev
 8. 當終端顯示出現以下字樣，表示伺服器與資料庫已啟動並成功連結
 
 ```
-Express is listening on [http://localhost:3000](http://localhost:3000)
+Express is listening on http://localhost:3000
 ```
 
 
