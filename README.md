@@ -23,7 +23,7 @@
 2. [npm](https://nodejs.org/en/) (版本使用 6.4.1) - Node.js 的套件管理器
 3. [Express](https://www.npmjs.com/package/express) (版本使用 4.17.1) - 應用程式架構
 4. [Express-Handlebars](https://www.npmjs.com/package/express-handlebars) (版本使用 5.2.0) - 模板引擎
-5. [Nodemon](https://www.npmjs.com/package/nodemon) - 伺服器輔助
+5. [Nodemon](https://www.npmjs.com/package/nodemon) (版本使用 2.0.6) - 伺服器輔助
 
 ## Use Tools - 使用工具
 
